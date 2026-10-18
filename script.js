@@ -1,6 +1,6 @@
 const SITE_DATA = {
   "intro": [
-    "For you,",
+   "For you,",
     "Some people arrive like a melody drifting through a half-open window. You don't notice the exact moment they become important. Only that certain songs sound different, certain thoughts stay a little longer and the world feels softer somehow.",
     "These pages hold a hundred songs, woven together with memories, hopes and quiet moments that refused to be forgotten. A story not told in words alone, but in melodies. A story about wonder, about connection and about the beautiful way one person can slowly become part of your favorite thoughts.",
     "So take your time. The songs are waiting. Every week I'll add 20 more. Listen at your own pace. All at once, every day one, you decided my dear.",
@@ -20,7 +20,7 @@ const SITE_DATA = {
       "num": "II",
       "title": "What the Heart Dares to Say",
       "teaser": "What began as a whisper slowly learned the courage to speak your name.",
-      "available": false
+      "available": true
     },
     {
       "num": "III",
@@ -59,7 +59,7 @@ const SITE_DATA = {
       "artist": "This New Light",
       "lyric": "I've seen a girl so wild. Seeking out the undesired. And there’s a fire inside her eyes. Compelling every heart alight, oh",
       "feeling": "A gentle awakening — the warmth of noticing someone for the first time. A softness that wasn’t there yesterday. A quiet shift that feels like sunrise.",
-      "why": "I've discovered this band not closely after our first meeting. So a perfect start for this journey. This always remains me of meeting you and it feels good."
+      "why": "I know this band only for 3 months or so. At the beginning when I first met you. So this reminds of starting to see you."
     },
     {
       "order": 2,
@@ -83,7 +83,7 @@ const SITE_DATA = {
       "artist": "Bright Eyes",
       "lyric": "I think I was blind before I met you.",
       "feeling": "Meeting someone who changes your perspective. Everything feels softer, clearer. A quiet start to something real.",
-      "why": "Ok, confession time. I think Conor Oberst is like my favorite singer songwriter of all time. He has to be on the list. He plays solo or in the band Bright Eyes and I think this song is like in my top 5 of all time favorite songs. Such a good storyteller !"
+      "why": "Ok, confession time. I think Conor Oberst is like my favorite singer songwriter of all time. He has to be on the list. He plays solo or in the band Bright Eyes and I think this song is like in my top 5 of all time favorite songs."
     },
     {
       "order": 5,
@@ -107,7 +107,7 @@ const SITE_DATA = {
       "artist": "Angus & Julia Stone",
       "lyric": "There she sits with them big old fields of daisies and rusty mills.",
       "feeling": "A clear, uncomplicated desire. No hesitation, no doubt. Just the warmth of knowing.",
-      "why": "Brother & sister from Australia. When I was younger I had a crush on Julia. Hahaha, I really like her style and the singing of the brother. So shy. I saw them in Ghent in the summer. Nice!!"
+      "why": "Brother & sister from Australia. I so long had a crush on Julia. Hahaha, I really like her style and the singing of the brother. So timid. I saw them in Ghent in the summer. Nice!!"
     },
     {
       "order": 8,
@@ -131,7 +131,7 @@ const SITE_DATA = {
       "artist": "Band of Horses",
       "lyric": "When you smile the sun, it peeks through the clouds.",
       "feeling": "A hesitant devotion. You imagine a life together quietly. Forever feels both comforting and overwhelming.",
-      "why": "This is actually a rock band, but I really like this song. It's about finding light during difficult times. I hope it can bring you light as well"
+      "why": "This is actually a rock band, but I really like this song. Did I mention I like slow songs?"
     },
     {
       "order": 11,
@@ -139,7 +139,7 @@ const SITE_DATA = {
       "artist": "Jack Johnson",
       "lyric": "It’s always better when we’re together.",
       "feeling": "Life softens when shared. Even ordinary moments feel brighter. A closeness that feels effortless.",
-      "why": "Surfer guy again, but different vibe. I played this song on guitar a lot on summer days. This brings me good feelings. Life and its everyday moments are better when shared with someone you love."
+      "why": "Same surfer guy, different vibe. I played this song on guitar a lot on summer days. This brings me good feelings. Life and its everyday moments are better when shared with someone you love."
     },
     {
       "order": 12,
@@ -155,7 +155,7 @@ const SITE_DATA = {
       "artist": "The Tallest Man On Earth",
       "lyric": "I won’t be found.",
       "feeling": "A hidden longing. You hope someone finds you anyway. A desire for discovery.",
-      "why": "Ah, he already passed in the beginning. This one is about living in the moment. Oh that fingerpicking though!"
+      "why": "Ah, this one has already passed in the beginning. This one is about living in the moment. Oh that fingerpicking though!"
     },
     {
       "order": 14,
@@ -213,185 +213,219 @@ const SITE_DATA = {
       "feeling": "A devotion that feels quiet but immense. Doing something impossible just to be near them. A love that whispers rather than shouts.",
       "why": "A bit of a religious song. I’m not religious at all and I can’t believe that some ‘God’ would be so selfish that people have to die if they don’t believe in that particular ‘God’. I can become very angry about that. Sorry. But also a very nice song about the thing that matters the most. L.O.V.E."
     }
+  ],
+  "chapter2Long": [
+    "There comes a moment when admiration quietly becomes affection.",
+    "And affection becomes something else.",
+    "Something deeper.",
+    "Something impossible to ignore.",
+    "These songs belong to that moment.",
+    "The moment when your happiness somehow starts to matter to me.",
+    "When hearing your voice can improve an entire day.",
+    "When I stop wondering whether I care and start realizing how much I already do.",
+    "I think love often arrives quietly.",
+    "Not like a thunderstorm.",
+    "More like sunlight slowly filling a room.",
+    "Until one day you look around and realize it is everywhere.",
+    "These songs are filled with that light."
+  ],
+  "songs2": [
+    {
+      "order": 21,
+      "title": "Et Maintenant",
+      "artist": "Marthe Schneider",
+      "lyric": "Et maintenant que vais-je faire de tout ce temps que sera ma vie",
+      "feeling": "A quiet question after the first spark. Uncertainty that feels gentle, not frightening. A hope that the answer is tenderness.",
+      "why": "This is an old French song, sung by Marthe, a Flemish actress."
+    },
+    {
+      "order": 22,
+      "title": "Poison & Wine",
+      "artist": "The Civil Wars",
+      "lyric": "I don’t love you, but I always will.",
+      "feeling": "A love that contradicts itself yet refuses to disappear. You ache and adore in the same breath. A closeness that feels impossible to let go.",
+      "why": "This is a very recent discovery. To be honest, I was looking for a song with subtle guitar, piano and two voices, a man and woman who speak to each other. One day we can maybe play this together?"
+    },
+    {
+      "order": 23,
+      "title": "Stay With Me",
+      "artist": "Angus & Julia Stone",
+      "lyric": "Oh, won't you stay with me ’Cause you’re all I need",
+      "feeling": "A soft plea for presence. You feel the night stretching around you. You don’t want the moment to end.",
+      "why": "My favourite brother and sister duo with a cover that carries a message."
+    },
+    {
+      "order": 24,
+      "title": "I’m On Fire",
+      "artist": "Soccer Mommy",
+      "lyric": "Tell me now baby, is he good to you? Can he do to you the things that I do?",
+      "feeling": "A longing that burns beneath the surface. Desire mixed with vulnerability. A quiet flame that refuses to fade.",
+      "why": "This is nostalgia. My parents were really big Bruce Springsteen fans and that was almost the only music they played when I was a kid, along with Tina Turner. So this song has a double meaning for me. This version gets me every time."
+    },
+    {
+      "order": 25,
+      "title": "That Look You Give That Guy",
+      "artist": "Eels",
+      "lyric": "If I could be that guy instead of me, I'd never let you down.",
+      "feeling": "A tender jealousy that reveals desire. You want to be the one they look at softly. A hope that feels fragile but real.",
+      "why": "There he is, Mr. E from Eels, one of my favourite singer-songwriters. I have even read his book Things the Grandchildren Should Know twice. This song helped me out a lot back in the day."
+    },
+    {
+      "order": 26,
+      "title": "Delicate",
+      "artist": "Damien Rice",
+      "lyric": "We might kiss when we are alone.",
+      "feeling": "A trembling intimacy. You move slowly, afraid to break the moment. A closeness that feels electric.",
+      "why": "Mr. Damien Rice, another favourite singer-songwriter. I like the soft ones. I have played this many times on guitar and really want to play it for you too."
+    },
+    {
+      "order": 27,
+      "title": "This Year’s Love",
+      "artist": "David Gray",
+      "lyric": "When you kiss me on that midnight street, sweep me off my feet, singing, ‘Ain't this life so sweet?’",
+      "feeling": "A hopeful wish. You’re tired of temporary affection. You want something steady.",
+      "why": "This song makes me want to learn piano. It is about longing, a feeling I know too well. It is filled with emotion and the duality of hope and fear."
+    },
+    {
+      "order": 28,
+      "title": "Wonderful Tonight",
+      "artist": "Eric Clapton",
+      "lyric": "You look wonderful tonight.",
+      "feeling": "A soft admiration. You notice the small details. A moment filled with gentle awe.",
+      "why": "This is a classic. That intro riff is so good. This is pure admiration for a partner’s beauty."
+    },
+    {
+      "order": 29,
+      "title": "To Make You Feel My Love",
+      "artist": "Bob Dylan",
+      "lyric": "When the evening shadows and the stars appear and there is no one there to dry your tears, I could hold you for a million years to make you feel my love.",
+      "feeling": "A timeless devotion. You want to wrap them in warmth. A love that feels steady.",
+      "why": "I like this version better than the Adele version. This is poetry as an emotional and sincere love song."
+    },
+    {
+      "order": 30,
+      "title": "Beyond Words",
+      "artist": "Daniel Norgren",
+      "lyric": "It’s beyond words.",
+      "feeling": "A closeness that doesn’t need language. You feel understood without speaking. A connection that breathes softly.",
+      "why": "A calm and intimate song filled with raw acoustic atmosphere."
+    },
+    {
+      "order": 31,
+      "title": "Salut d’Amour",
+      "artist": "Elgar / Yo-Yo Ma / Stott",
+      "lyric": "A love letter written in notes.",
+      "feeling": "A gentle confession. Affection expressed through melody. A moment that feels handwritten.",
+      "why": "This is a musical declaration of love, my dear."
+    },
+    {
+      "order": 32,
+      "title": "Make It Wit Chu",
+      "artist": "Queens of the Stone Age",
+      "lyric": "I ain't here to break it. Just see how far it will bend.",
+      "feeling": "A warm pull. Desire wrapped in warmth and playfulness. A closeness that sparks.",
+      "why": "This is the only rock song here, a direct expression of romantic desire."
+    },
+    {
+      "order": 33,
+      "title": "These Arms of Mine",
+      "artist": "Otis Redding",
+      "lyric": "These arms of mine, they are yearning. Yearning from wanting you.",
+      "feeling": "A yearning embrace. Wanting someone to fill the empty space beside you. A longing that feels tender.",
+      "why": "This is a song I wish I had written myself. From 1962, and the lyrics are pure longing and wanting."
+    },
+    {
+      "order": 34,
+      "title": "Do You Love Me",
+      "artist": "The Contours",
+      "lyric": "Do you love me?",
+      "feeling": "A playful longing. Wanting reassurance wrapped in rhythm. A question filled with hope.",
+      "why": "I am a sucker for musicals and dancing. One of my favourite movies is Dirty Dancing. I want to watch it with you. When I hear this, I cannot sit still."
+    },
+    {
+      "order": 35,
+      "title": "When a Man Loves a Woman",
+      "artist": "Percy Sledge",
+      "lyric": "When a man loves a woman, can't keep his mind on nothin' else.",
+      "feeling": "A deep devotion. Loving someone with everything you have. A tenderness that feels timeless.",
+      "why": "A classic in soul music."
+    },
+    {
+      "order": 36,
+      "title": "Unchained Melody",
+      "artist": "The Righteous Brothers",
+      "lyric": "Oh, my love, my darling, I've hungered for your touch",
+      "feeling": "A timeless yearning. Waiting for someone with unwavering tenderness. A love that stretches across distance.",
+      "why": "The singing is so impressive."
+    },
+    {
+      "order": 37,
+      "title": "Falling Slowly",
+      "artist": "Glen Hansard & Markéta Irglová",
+      "lyric": "I don't know you, but I want you.",
+      "feeling": "A fragile hope. Choosing love even when everything feels uncertain. A closeness that steadies you.",
+      "why": "A simple song from the movie Once, about a busker and someone he accidentally meets. Something small becomes big, and the song won an Oscar."
+    },
+    {
+      "order": 38,
+      "title": "Be My Baby",
+      "artist": "The Ronettes",
+      "lyric": "I'll make you happy, baby, just wait and see. For every kiss you give me, I'll give you three",
+      "feeling": "A timeless plea for devotion. Sweet, simple, and sincere. A love that feels like a classic melody.",
+      "why": "This is also from Dirty Dancing. We need to see it together. I love the sixties atmosphere."
+    },
+    {
+      "order": 39,
+      "title": "Con Te Partirò",
+      "artist": "Andrea Bocelli",
+      "lyric": "Con te partirò.",
+      "feeling": "A promise to walk together. Distance softened by devotion. A love that feels expansive.",
+      "why": "An Italian song belongs on the list. With you, I want to leave."
+    },
+    {
+      "order": 40,
+      "title": "You Really Got a Hold on Me",
+      "artist": "She & Him",
+      "lyric": "Seems that I'm always thinking of you.",
+      "feeling": "A playful contradiction. Affection that refuses to be logical. A closeness that pulls you in.",
+      "why": "She & Him is M. Ward and Zooey Deschanel, inspired by fifties and sixties soul."
+    }
   ]
 };
-
-// Replace # with your public Spotify playlist URL when it is ready.
 const SPOTIFY_PLAYLIST_URL = "#";
-
-const introText = document.querySelector("#introText");
-SITE_DATA.intro.forEach(line => {
-  const p = document.createElement("p"); p.textContent = line; introText.appendChild(p);
-});
-
-const grid = document.querySelector("#chapterGrid");
-SITE_DATA.chapters.forEach((chapter, index) => {
-  const card = document.createElement("button");
-  card.className = `chapter-card ${chapter.available ? "available" : "locked"} reveal`;
-  card.type = "button";
-  card.setAttribute("aria-label", chapter.available ? `Open chapter ${chapter.num}: ${chapter.title}` : `Chapter ${chapter.num} is coming soon`);
-  card.innerHTML = `<span class="chapter-number">${chapter.num}</span><h3>${chapter.title}</h3><blockquote>“${chapter.teaser}”</blockquote><span class="chapter-status">${chapter.available ? "Open chapter <b>→</b>" : `Coming in week ${index + 1} <span class="lock">◇</span>`}</span>`;
-  card.addEventListener("click", () => chapter.available ? openChapterOne() : showToast(`${chapter.title} · coming soon`));
+const escapeHtml=value=>{const e=document.createElement("div");e.textContent=value;return e.innerHTML;};
+SITE_DATA.intro.forEach(line=>{const p=document.createElement("p");p.textContent=line;document.querySelector("#introText").appendChild(p);});
+function renderSongs(target,songs){
+ const grid=document.querySelector(target);
+ songs.forEach(song=>{
+  const card=document.createElement("article");card.className="song-card reveal";
+  card.innerHTML=`<div class="song-top"><span class="song-no">${String(song.order).padStart(2,"0")}</span><div><h3 class="song-title">${escapeHtml(song.title)}</h3><p class="artist">${escapeHtml(song.artist)}</p></div><span class="note-icon">♪</span></div><blockquote class="lyric">${escapeHtml(song.lyric)}</blockquote><div class="detail"><span class="detail-label">The feeling</span><p>${escapeHtml(song.feeling)}</p></div><div class="detail"><span class="detail-label">Why this song belongs here</span><p>${escapeHtml(song.why)}</p></div><button class="expand-btn" type="button">Open Letter →</button>`;
   grid.appendChild(card);
+ });
+ wireAccordion(grid);
+}
+function wireAccordion(grid){
+ const cards=[...grid.querySelectorAll('.song-card')];
+ cards.forEach(card=>{const btn=card.querySelector('.expand-btn');btn.onclick=()=>{
+  const opening=!card.classList.contains('open');cards.forEach(c=>{c.classList.remove('open');c.querySelector('.expand-btn').textContent='Open Letter →';});grid.classList.remove('has-open');
+  if(opening){card.classList.add('open');btn.textContent='Close Letter';grid.classList.add('has-open');setTimeout(()=>window.scrollTo({top:card.getBoundingClientRect().top+scrollY-110,behavior:'smooth'}),100);}
+ };});
+}
+function showChapter(index){
+ document.querySelectorAll('.songs-section').forEach(s=>s.hidden=true);
+ const section=document.querySelector(index===0?'#chapter-one':'#chapter-two');section.hidden=false;observeReveals();section.scrollIntoView({behavior:'smooth'});
+}
+const chapterGrid=document.querySelector('#chapterGrid');
+SITE_DATA.chapters.forEach((chapter,index)=>{
+ const card=document.createElement('button');card.type='button';card.className=`chapter-card ${chapter.available?'available':'locked'} reveal`;
+ card.innerHTML=`<span class="chapter-number">${chapter.num}</span><h3>${escapeHtml(chapter.title)}</h3><blockquote>${escapeHtml(chapter.teaser)}</blockquote><span class="chapter-status">${chapter.available?'Open chapter <b>→</b>':`Coming in week ${index+1} <span class="lock">◇</span>`}</span>`;
+ card.onclick=()=>chapter.available?showChapter(index):showToast(`${chapter.title} · coming soon`);chapterGrid.appendChild(card);
 });
-
-document.querySelector("#chapterProse").innerHTML = SITE_DATA.chapter1Long.map(x => `<p>${escapeHtml(x)}</p>`).join("");
-const songsGrid = document.querySelector("#songsGrid");
-SITE_DATA.songs.forEach(song => {
-  const card = document.createElement("article"); card.className = "song-card reveal";
-  card.innerHTML = `<div class="song-top"><span class="song-no">${String(song.order).padStart(2,"0")}</span><div><h3 class="song-title">${escapeHtml(song.title)}</h3><p class="artist">${escapeHtml(song.artist)}</p></div><span class="note-icon">♪</span></div><blockquote class="lyric">“${escapeHtml(song.lyric)}”</blockquote><div class="detail"><span class="detail-label">The feeling</span><p>${escapeHtml(song.feeling)}</p></div><div class="detail"><span class="detail-label">Why this song belongs here</span><p>${escapeHtml(song.why)}</p></div>`;
-  songsGrid.appendChild(card);
-});
-
-function escapeHtml(value) { const el=document.createElement("div"); el.textContent=value; return el.innerHTML; }
-function openChapterOne() {
-  const section=document.querySelector("#chapter-one"); section.hidden=false;
-  requestAnimationFrame(() => { observeReveals(); section.scrollIntoView({behavior:"smooth",block:"start"}); });
-}
-document.querySelector("#backToChapters").addEventListener("click", () => document.querySelector("#chapters").scrollIntoView({behavior:"smooth"}));
-const spotifyLink = document.querySelector("#spotifyLink");
-if (spotifyLink) {
-  spotifyLink.addEventListener("click", e => {
-    if (SPOTIFY_PLAYLIST_URL === "#") { e.preventDefault(); showToast("Your Spotify playlist link will appear here soon ♡"); }
-  });
-  if (SPOTIFY_PLAYLIST_URL !== "#") {
-    spotifyLink.href=SPOTIFY_PLAYLIST_URL;
-    spotifyLink.classList.remove("disabled");
-    spotifyLink.removeAttribute("aria-disabled");
-    spotifyLink.target="_blank";
-    spotifyLink.rel="noopener";
-  }
-}
-let toastTimer; function showToast(message) { const toast=document.querySelector("#toast"); toast.textContent=message; toast.classList.add("show"); clearTimeout(toastTimer); toastTimer=setTimeout(()=>toast.classList.remove("show"),2600); }
-let observer; function observeReveals() {
-  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) { document.querySelectorAll(".reveal").forEach(x=>x.classList.add("visible")); return; }
-  if (!observer) observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){entry.target.classList.add("visible");observer.unobserve(entry.target);}}),{threshold:.08,rootMargin:"0px 0px -30px"});
-  document.querySelectorAll(".reveal:not(.visible)").forEach(el=>observer.observe(el));
-}
-observeReveals();
-
-// Version 2 ambient animation system. Decorative only and motion-safe.
-(function initCinematicLayer(){
-  const reduced=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  const stars=document.querySelector('#stars');
-  if(stars && !reduced){
-    for(let i=0;i<58;i++){
-      const s=document.createElement('i'); s.className='star';
-      s.style.left=Math.random()*100+'%'; s.style.top=Math.random()*92+'%';
-      s.style.setProperty('--duration',(2.2+Math.random()*4.8)+'s');
-      s.style.setProperty('--opacity',(.2+Math.random()*.7).toFixed(2)); stars.appendChild(s);
-    }
-  }
-  const tw=document.querySelector('.typewriter');
-  if(tw){
-    const text=tw.dataset.text||'';
-    if(reduced){tw.textContent=text;} else {
-      let i=0; const write=()=>{tw.textContent=text.slice(0,i++); if(i<=text.length)setTimeout(write,38)};
-      setTimeout(write,650);
-    }
-  }
-  const glow=document.querySelector('#cursorGlow');
-  if(glow && !reduced) window.addEventListener('pointermove',e=>{
-    glow.style.left=e.clientX+'px'; glow.style.top=e.clientY+'px';
-  },{passive:true});
-
-  let ambience=true, petalTimer;
-  const petals=document.querySelector('#petals');
-  const makePetal=()=>{
-    if(!ambience||reduced||!petals)return;
-    const p=document.createElement('i');p.className='petal';
-    p.style.left=Math.random()*100+'vw'; p.style.opacity=.2+Math.random()*.5;
-    p.style.setProperty('--drift',(-100+Math.random()*200)+'px');
-    p.style.animationDuration=(8+Math.random()*8)+'s';
-    p.style.transform=`scale(${.5+Math.random()*.8}) rotate(${Math.random()*180}deg)`;
-    petals.appendChild(p); setTimeout(()=>p.remove(),16500);
-  };
-  if(!reduced) petalTimer=setInterval(makePetal,2100);
-  const toggle=document.querySelector('#soundToggle');
-  if(toggle) toggle.addEventListener('click',()=>{
-    ambience=!ambience; toggle.classList.toggle('paused',!ambience);
-    toggle.querySelector('span:last-child').textContent=ambience?'ambience':'still';
-    if(!ambience) petals.querySelectorAll('.petal').forEach(p=>p.remove());
-  });
-
-  if(!reduced){
-    document.querySelectorAll('.song-card').forEach(card=>{
-      card.addEventListener('pointermove',e=>{
-        const r=card.getBoundingClientRect(),x=(e.clientX-r.left)/r.width-.5,y=(e.clientY-r.top)/r.height-.5;
-        card.style.transform=`perspective(900px) rotateY(${x*2.2}deg) rotateX(${-y*2.2}deg) translateY(-3px)`;
-      });
-      card.addEventListener('pointerleave',()=>card.style.transform='');
-    });
-  }
-})();
-
-setTimeout(()=>{
- document.querySelectorAll('.song-card').forEach(card=>{
-   const details=card.querySelectorAll('.detail');
-   const btn=document.createElement('button');
-   btn.className='expand-btn';
-   btn.textContent='Read Story';
-   btn.onclick=()=>{
-      card.classList.toggle('open');
-      btn.textContent=card.classList.contains('open')?'Hide Story':'Read Story';
-   };
-   card.appendChild(btn);
- });
-},50);
-
-/* Version 8 single-open accordion */
-setTimeout(()=>{
- const cards=[...document.querySelectorAll('.song-card')];
- cards.forEach(card=>{
-   const btn=card.querySelector('.expand-btn');
-   if(!btn) return;
-   btn.onclick=(e)=>{
-      e.preventDefault();
-      const opening=!card.classList.contains('open');
-      cards.forEach(c=>{
-         c.classList.remove('open');
-         const b=c.querySelector('.expand-btn');
-         if(b) b.textContent='Read Story';
-      });
-      if(opening){
-        card.classList.add('open');
-        btn.textContent='Hide Story';
-      }
-   };
- });
-},120);
-
-/* Version 9 improvements */
-setTimeout(()=>{
- const grid=document.querySelector('.songs-grid');
- const cards=[...document.querySelectorAll('.song-card')];
- cards.forEach(card=>{
-   const btn=card.querySelector('.expand-btn');
-   if(!btn) return;
-   btn.textContent='Open Letter →';
-   btn.onclick=(e)=>{
-      e.preventDefault();
-      const opening=!card.classList.contains('open');
-      cards.forEach(c=>{
-        c.classList.remove('open');
-        const b=c.querySelector('.expand-btn');
-        if(b) b.textContent='Open Letter →';
-      });
-      grid.classList.remove('has-open');
-      if(opening){
-        card.classList.add('open');
-        btn.textContent='Close Letter';
-        grid.classList.add('has-open');
-        setTimeout(()=>{
-           const y=card.getBoundingClientRect().top+window.pageYOffset-110;
-           window.scrollTo({top:y,behavior:'smooth'});
-        },120);
-      }
-   };
- });
-},300);
-
-setTimeout(()=>{
- const p=document.querySelector('#playlistLink');
- if(p){p.addEventListener('click',e=>{if(p.getAttribute('href')==='#'){e.preventDefault();alert('Spotify playlist link will be added later ♡');}})}
-},50);
+document.querySelector('#chapterProse').innerHTML=SITE_DATA.chapter1Long.map(x=>`<p>${escapeHtml(x)}</p>`).join('');
+document.querySelector('#chapter2Prose').innerHTML=SITE_DATA.chapter2Long.map(x=>`<p>${escapeHtml(x)}</p>`).join('');
+renderSongs('#songsGrid',SITE_DATA.songs);renderSongs('#songsGrid2',SITE_DATA.songs2);
+document.querySelectorAll('.back-link,.back-to-chapters').forEach(b=>b.onclick=()=>document.querySelector('#chapters').scrollIntoView({behavior:'smooth'}));
+let toastTimer;function showToast(message){const t=document.querySelector('#toast');t.textContent=message;t.classList.add('show');clearTimeout(toastTimer);toastTimer=setTimeout(()=>t.classList.remove('show'),2400);}
+const playlist=document.querySelector('#playlistLink');if(playlist)playlist.onclick=e=>{if(playlist.getAttribute('href')==='#'){e.preventDefault();showToast('Spotify playlist link will be added later ♡');}};
+let observer;function observeReveals(){if(!observer)observer=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');observer.unobserve(e.target);}}),{threshold:.06});document.querySelectorAll('.reveal:not(.visible)').forEach(e=>observer.observe(e));}observeReveals();
+(function visuals(){const stars=document.querySelector('#stars');for(let i=0;i<45;i++){const s=document.createElement('i');s.className='star';s.style.left=Math.random()*100+'%';s.style.top=Math.random()*90+'%';s.style.setProperty('--duration',(3+Math.random()*4)+'s');s.style.setProperty('--opacity',(.25+Math.random()*.65));stars.appendChild(s);}const type=document.querySelector('.typewriter');if(type){const text=type.dataset.text;let i=0;const tick=()=>{type.textContent=text.slice(0,i++);if(i<=text.length)setTimeout(tick,35);};setTimeout(tick,500);}})();
