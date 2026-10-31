@@ -65,3 +65,7 @@ The Chapter I introduction now displays the complete long chapter text instead o
 ## Version 16 navigation
 
 The intro letter now includes a prominent **Explore the Chapters** button that links directly to the chapter-envelope section using the existing smooth-scroll behavior.
+
+## Version 19 Chapter III
+
+Chapter III is unlocked with the complete long introduction and songs 41–60. The mature film reference in song 48 has been replaced by a general-audience soundtrack discovery note.

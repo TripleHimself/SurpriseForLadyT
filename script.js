@@ -1,6 +1,6 @@
 const SITE_DATA = {
   "intro": [
-   "For you,",
+    "For you,",
     "Some people arrive like a melody drifting through a half-open window. You don't notice the exact moment they become important. Only that certain songs sound different, certain thoughts stay a little longer and the world feels softer somehow.",
     "These pages hold a hundred songs, woven together with memories, hopes and quiet moments that refused to be forgotten. A story not told in words alone, but in melodies. A story about wonder, about connection and about the beautiful way one person can slowly become part of your favorite thoughts.",
     "So take your time. The songs are waiting. Every week I'll add 20 more. Listen at your own pace. All at once, every day one, you decided my dear.",
@@ -26,7 +26,7 @@ const SITE_DATA = {
       "num": "III",
       "title": "The Shape of Missing You",
       "teaser": "Even in your absence, I kept finding pieces of you hidden throughout my days.",
-      "available": false
+      "available": true
     },
     {
       "num": "IV",
@@ -390,6 +390,182 @@ const SITE_DATA = {
       "feeling": "A playful contradiction. Affection that refuses to be logical. A closeness that pulls you in.",
       "why": "She & Him is M. Ward and Zooey Deschanel, inspired by fifties and sixties soul."
     }
+  ],
+  "chapter3Long": [
+    "I never understood how much space a person could occupy until I met someone whose absence I could feel.",
+    "Not absence in a sad way.",
+    "But in the way certain songs become theirs.",
+    "Certain places become theirs.",
+    "Certain moments feel incomplete because they are not there to share them.",
+    "These songs live in those spaces.",
+    "The spaces between meetings, between messages, between one goodbye and the next hello.",
+    "They remind me that missing someone is not always about distance.",
+    "Sometimes it is simply about wishing for one more hour.",
+    "One more conversation.",
+    "One more memory.",
+    "And realizing how lucky you are to have someone worth missing in the first place."
+  ],
+  "songs3": [
+    {
+      "order": 41,
+      "title": "Borders",
+      "artist": "The National Forest",
+      "lyric": "Wrapping your arms round the length of my body for warmth.",
+      "feeling": "The courage to open your heart begins quietly. You step past old walls because someone feels safe. A small, brave move toward connection.",
+      "why": "I discovered this around the same time as the previous song. I like the thought that you do not know how far I would go. Some people deserve that extra step."
+    },
+    {
+      "order": 42,
+      "title": "Beacon Hill",
+      "artist": "Damien Jurado",
+      "lyric": "It's all right, baby.",
+      "feeling": "The sweetness of unspoken affection. Words rehearsed but never delivered. A beginning trembling with possibility.",
+      "why": "I really love Damien Jurado, a singer-songwriter from Seattle. He experiments with sound but also writes very fragile songs. This one touches on mental illness and delusion, yet remains a remarkable piece of art that moves me every time."
+    },
+    {
+      "order": 43,
+      "title": "Now That I Know",
+      "artist": "The Bony King of Nowhere",
+      "lyric": "Now that I know, I can’t go back.",
+      "feeling": "The moment someone becomes impossible to ignore. A truth settling into your chest. A feeling you can’t unfeel.",
+      "why": "The Bony King of Nowhere is from Ghent, where I lived for many years. I have seen him perform many times and really like his slow singing and guitar style, which is close to what I enjoy playing myself."
+    },
+    {
+      "order": 44,
+      "title": "You Don’t Know How Lucky You Are",
+      "artist": "Keaton Henson",
+      "lyric": "Does he know not to talk?",
+      "feeling": "A quiet jealousy wrapped in longing. You want to be the one who understands their silences. A desire to be seen as the gentler choice.",
+      "why": "Keaton is both an artist and a poet. He avoids attention and rarely performs. The almost-spoken singing and the message feel exceptionally fragile and pure."
+    },
+    {
+      "order": 45,
+      "title": "Hear You Me",
+      "artist": "Jimmy Eat World",
+      "lyric": "May angels lead you in.",
+      "feeling": "A farewell wrapped in love. You let someone go gently, without bitterness. A goodbye that still carries warmth.",
+      "why": "Jimmy Eat World was the band that really drew me toward softer music after years of listening mostly to punk rock. I once drove all the way to Berlin to see them."
+    },
+    {
+      "order": 46,
+      "title": "Carolina",
+      "artist": "M. Ward",
+      "lyric": "Carolina, I swear I’m fine.",
+      "feeling": "A gentle lie told out of love. You hide your heaviness behind a soft smile. A wish to protect them from your storms.",
+      "why": "M. Ward is one of my favourite singer-songwriters. I once saw him and Conor Oberst on the same open-air bill. Sunshine turned into drizzle and darkness just as they played, and it became an unforgettable show. His guitar playing still inspires me."
+    },
+    {
+      "order": 47,
+      "title": "Nobody’s Nothing",
+      "artist": "Owen",
+      "lyric": "I’m nobody’s nothing.",
+      "feeling": "A quiet hope to matter. You long for recognition, for belonging. A wish whispered into the dark.",
+      "why": "I have been trying to learn this guitar part for a long time and I am not quite there yet. I love the playing and the voice, even if it is not the happiest song."
+    },
+    {
+      "order": 48,
+      "title": "Abandoned",
+      "artist": "Scott Matthew",
+      "lyric": "I'm not special, but it helped to know that someone thinks I am.",
+      "feeling": "A trembling confession. You trust someone with your loneliness. A hope that they’ll stay.",
+      "why": "I first discovered Scott Matthew through a film soundtrack. The strings entering this song alongside his unique voice still affect me every time. I later met him after a very small concert in Ghent; he was warm and friendly and gave me a tote bag, a memory I will not forget."
+    },
+    {
+      "order": 49,
+      "title": "Ghost of a Shark",
+      "artist": "Tom McRae",
+      "lyric": "I'll never leave.",
+      "feeling": "A drifting sadness. You hope someone anchors you. A longing for stability.",
+      "why": "Tom McRae is another favourite singer-songwriter of mine, and someone I have been lucky to see several times. A beautiful voice, just like yours."
+    },
+    {
+      "order": 50,
+      "title": "The Longing",
+      "artist": "Eels",
+      "lyric": "I can't think of one single thing that matters more than just to see her.",
+      "feeling": "A deep ache. Wanting someone with your whole chest. A yearning that feels honest.",
+      "why": "Mr. E returns with one of the emotions that speaks to me most: longing. The lyric says everything."
+    },
+    {
+      "order": 51,
+      "title": "Return to Me",
+      "artist": "Sparklehorse",
+      "lyric": "With tears from me, return to me.",
+      "feeling": "A quiet plea. You miss their warmth. A longing that feels tender.",
+      "why": "The slow guitar and almost-whispered singing are incredibly affecting."
+    },
+    {
+      "order": 52,
+      "title": "Detlef Schrempf",
+      "artist": "Band of Horses",
+      "lyric": "My eyes can't look at you any other way.",
+      "feeling": "A soft resignation. Life feels heavy, but their presence steadies you. A closeness that comforts.",
+      "why": "When I was younger I played a lot of basketball, and Detlef Schrempf was an NBA player. The song itself has no real connection to him, which makes the title even more charming. I love how the intro gradually falls into place."
+    },
+    {
+      "order": 53,
+      "title": "Animal",
+      "artist": "Gambles",
+      "lyric": "I need you close to me.",
+      "feeling": "An immediate longing for closeness. Wanting someone near with honest intensity. A feeling that is vivid and alive.",
+      "why": "There is not much information to find about this artist, so this is one to simply listen to and experience."
+    },
+    {
+      "order": 54,
+      "title": "The Hill",
+      "artist": "Markéta Irglová",
+      "lyric": "Please try to be patient and know that I'm still learning.",
+      "feeling": "A breaking point. Loving someone so deeply it hurts. A moment filled with raw truth.",
+      "why": "Also from the film Once. This song captures the effort of trying to save a relationship that is starting to break."
+    },
+    {
+      "order": 55,
+      "title": "Passing Afternoon",
+      "artist": "Iron & Wine",
+      "lyric": "There are things we can’t recall.",
+      "feeling": "A soft nostalgia. Remembering someone in fragments. A tenderness that lingers.",
+      "why": "A beautiful song. It does not need much more explanation."
+    },
+    {
+      "order": 56,
+      "title": "Girl in the War",
+      "artist": "Josh Ritter",
+      "lyric": "I got a girl in the war.",
+      "feeling": "A love caught in conflict. Holding onto someone in difficult times. A devotion that persists.",
+      "why": "Josh Ritter is someone I have seen several times. He is always smiling, even when handling difficult subjects. This song criticizes leaders who debate conflict from a distance while ordinary people suffer."
+    },
+    {
+      "order": 57,
+      "title": "Sad Eyes",
+      "artist": "Josh Rouse",
+      "lyric": "Hey, you with the sad eyes.",
+      "feeling": "Seeing someone’s sadness and wanting to soothe it. A gentle desire to comfort. A tenderness that feels protective.",
+      "why": "Another song I would love to learn on piano. Maybe I know someone who could teach me."
+    },
+    {
+      "order": 58,
+      "title": "Evening Kitchen",
+      "artist": "Band of Horses",
+      "lyric": "Drive out with the sun in your eyes.",
+      "feeling": "A soft insecurity. You hope they choose you anyway. A moment filled with gentle longing.",
+      "why": "For me, this song captures the character of the band: warm, melancholic harmonies."
+    },
+    {
+      "order": 59,
+      "title": "Night of Longing",
+      "artist": "The Bony King of Nowhere",
+      "lyric": "I want you, I want to feel you all around.",
+      "feeling": "A quiet ache that fills the dark. Wanting someone with a slow intensity. A longing that feels tender.",
+      "why": "I once arrived late to a small try-out concert and the only place left was directly in front of the stage. After a funny exchange during the show, we spoke for nearly an hour afterward about his guitars. The passion with which he described them stayed with me."
+    },
+    {
+      "order": 60,
+      "title": "Here With Me",
+      "artist": "Milo Meskens",
+      "lyric": "I just want you here with me.",
+      "feeling": "A simple, honest desire. Wanting presence more than anything else. A closeness that feels essential.",
+      "why": "Another talented Belgian singer-songwriter. The end of a relationship has inspired so many songs because it is something almost everyone recognizes."
+    }
   ]
 };
 const SPOTIFY_PLAYLIST_URL = "#";
@@ -413,7 +589,7 @@ function wireAccordion(grid){
 }
 function showChapter(index){
  document.querySelectorAll('.songs-section').forEach(s=>s.hidden=true);
- const section=document.querySelector(index===0?'#chapter-one':'#chapter-two');section.hidden=false;observeReveals();section.scrollIntoView({behavior:'smooth'});
+ const section=document.querySelector(['#chapter-one','#chapter-two','#chapter-three'][index]);section.hidden=false;observeReveals();section.scrollIntoView({behavior:'smooth'});
 }
 const chapterGrid=document.querySelector('#chapterGrid');
 SITE_DATA.chapters.forEach((chapter,index)=>{
@@ -423,7 +599,8 @@ SITE_DATA.chapters.forEach((chapter,index)=>{
 });
 document.querySelector('#chapterProse').innerHTML=SITE_DATA.chapter1Long.map(x=>`<p>${escapeHtml(x)}</p>`).join('');
 document.querySelector('#chapter2Prose').innerHTML=SITE_DATA.chapter2Long.map(x=>`<p>${escapeHtml(x)}</p>`).join('');
-renderSongs('#songsGrid',SITE_DATA.songs);renderSongs('#songsGrid2',SITE_DATA.songs2);
+document.querySelector('#chapter3Prose').innerHTML=SITE_DATA.chapter3Long.map(x=>`<p>${escapeHtml(x)}</p>`).join('');
+renderSongs('#songsGrid',SITE_DATA.songs);renderSongs('#songsGrid2',SITE_DATA.songs2);renderSongs('#songsGrid3',SITE_DATA.songs3);
 document.querySelectorAll('.back-link,.back-to-chapters').forEach(b=>b.onclick=()=>document.querySelector('#chapters').scrollIntoView({behavior:'smooth'}));
 let toastTimer;function showToast(message){const t=document.querySelector('#toast');t.textContent=message;t.classList.add('show');clearTimeout(toastTimer);toastTimer=setTimeout(()=>t.classList.remove('show'),2400);}
 const playlist=document.querySelector('#playlistLink');if(playlist)playlist.onclick=e=>{if(playlist.getAttribute('href')==='#'){e.preventDefault();showToast('Spotify playlist link will be added later ♡');}};

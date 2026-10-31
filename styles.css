@@ -487,3 +487,11 @@ footer{font-weight:500}
 
 /* VERSION 18 Chapter II */
 .journey-fill{right:60%!important}.chapter-two-theme{background:linear-gradient(180deg,#fff8f3,#ffeaf1)}.chapter-two-theme .chapter-intro{background:radial-gradient(circle at 85% 18%,rgba(244,184,78,.15),transparent 24%),linear-gradient(145deg,rgba(255,255,255,.96),rgba(255,239,244,.92))}.chapter-two-theme .chapter-intro:before{content:"II"!important}.chapter-card.available:nth-child(2):before{background-image:radial-gradient(circle at 20% 20%,rgba(255,255,255,.05) 0 1px,transparent 2px),linear-gradient(145deg,#751746,#c73c72)!important}
+
+/* VERSION 19 Chapter III */
+.journey-fill{right:40%!important}
+.chapter-three-theme{background:linear-gradient(180deg,#fdf7fb,#f6e8f0 54%,#fff5ef)}
+.chapter-three-theme .chapter-intro{background:radial-gradient(circle at 13% 16%,rgba(176,91,139,.14),transparent 25%),radial-gradient(circle at 88% 83%,rgba(235,178,91,.13),transparent 23%),linear-gradient(145deg,rgba(255,255,255,.96),rgba(250,238,246,.92))}
+.chapter-three-theme .chapter-intro:before{content:"III"!important;color:rgba(119,53,93,.06)!important}
+.chapter-card.available:nth-child(3):before{background-image:radial-gradient(circle at 20% 20%,rgba(255,255,255,.05) 0 1px,transparent 2px),radial-gradient(circle at 80% 60%,rgba(255,255,255,.04) 0 1px,transparent 2px),linear-gradient(145deg,#532342,#93607f)!important}
+.chapter-card.available:nth-child(3):after{background:linear-gradient(145deg,#aa7896,#60314e)!important}
