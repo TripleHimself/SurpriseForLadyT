@@ -713,11 +713,11 @@ const SITE_DATA = {
     },
     {
       "order": 77,
-      "title": "Soul Interlude",
+      "title": "Sexual Healing",
       "artist": "Marvin Gaye",
-      "lyric": "A soulful moment of closeness.",
-      "feeling": "Warmth, trust, and tenderness expressed through a classic soul atmosphere.",
-      "why": "A smooth soul interlude that adds warmth to the chapter while keeping this version suitable for a general audience."
+      "lyric": "Oh, baby now let's get down tonight.”",
+      "feeling": "A warm, physical closeness that heals more than it touches. Desire wrapped in tenderness. A connection that feels restorative.",
+      "why": "Ok this song is pure sex, come one. Oh my god, gets me in the mood every time."
     },
     {
       "order": 78,
