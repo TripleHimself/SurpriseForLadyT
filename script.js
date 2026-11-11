@@ -32,13 +32,13 @@ const SITE_DATA = {
       "num": "IV",
       "title": "Where the Light Breaks",
       "teaser": "It was in the fragile places, where certainty ended, that I discovered how deeply I could feel.",
-      "available": false
+      "available": true
     },
     {
       "num": "V",
       "title": "The Quiet After",
       "teaser": "Long after the questions faded, the warmth of you remained.",
-      "available": false
+      "available": true
     }
   ],
   "chapter1Long": [
@@ -566,6 +566,360 @@ const SITE_DATA = {
       "feeling": "A simple, honest desire. Wanting presence more than anything else. A closeness that feels essential.",
       "why": "Another talented Belgian singer-songwriter. The end of a relationship has inspired so many songs because it is something almost everyone recognizes."
     }
+  ],
+  "chapter4Long": [
+    "No heart opens without risk.",
+    "No love worth having arrives without vulnerability.",
+    "These songs carry the parts of us we rarely show the world.",
+    "The fears.",
+    "The scars.",
+    "The doubts.",
+    "The moments when life is heavier than we expected it to be.",
+    "But they also remind me of something beautiful.",
+    "That the people who matter most are not the ones who only stand beside us in the sunlight.",
+    "They are the ones who stay when the clouds arrive.",
+    "The ones who see the fragile parts and choose to hold them gently.",
+    "If this chapter has taught me anything, it is that love is not the absence of brokenness.",
+    "It is finding someone with whom broken things no longer feel broken."
+  ],
+  "songs4": [
+    {
+      "order": 61,
+      "title": "Funeral",
+      "artist": "Phoebe Bridgers",
+      "lyric": "I’m so blue all the time.",
+      "feeling": "A sadness you trust someone enough to share. You let them see the heaviness you hide. A quiet intimacy born from honesty.",
+      "why": "Conor Oberst has a band with Phoebe Bridgers, so I had to explore her music. I connected with this beautiful song immediately."
+    },
+    {
+      "order": 62,
+      "title": "Hurt",
+      "artist": "Johnny Cash",
+      "lyric": "I hurt myself today.",
+      "feeling": "A raw confession of pain. You show someone the parts that ache. A moment where honesty becomes connection.",
+      "why": "Johnny Cash needs little introduction. This interpretation affected me deeply when I first heard it; the weight in his voice gives me goosebumps."
+    },
+    {
+      "order": 63,
+      "title": "Lua",
+      "artist": "Bright Eyes",
+      "lyric": "I know you have a heavy heart.",
+      "feeling": "Two people trying to stay warm in a cold world. You walk side by side, hoping the night softens. A fragile closeness held in silence.",
+      "why": "Conor returns with one of my all-time favourites. It is fragile and honest. One day I would love to play it for you."
+    },
+    {
+      "order": 64,
+      "title": "Woman, When I’ve Raised Hell",
+      "artist": "Josh T. Pearson",
+      "lyric": "Honestly, you are the Queen.",
+      "feeling": "A plea for forgiveness. You want to be better for them. A moment of humility.",
+      "why": "A warning about how complicated people can become, delivered with remarkable restraint. Josh T. Pearson’s voice is one of a kind."
+    },
+    {
+      "order": 65,
+      "title": "Ik Ben Moe",
+      "artist": "Flip Kowlier",
+      "lyric": "Please do not lose me; I am tired.",
+      "feeling": "A tired heart longing for rest. You want someone who feels like home. A quiet wish for comfort.",
+      "why": "I wanted to include a Dutch-language singer-songwriter. Flip Kowlier comes from the region where I went to school, and the West Flemish dialect makes the song especially personal."
+    },
+    {
+      "order": 66,
+      "title": "Blood Bank",
+      "artist": "Bon Iver",
+      "lyric": "I know it well.",
+      "feeling": "An unexpected closeness. Intimacy found in strange places. A moment that feels oddly tender.",
+      "why": "Bon Iver needs little introduction by now. This song is about two people meeting and finding warmth in an unexpected place."
+    },
+    {
+      "order": 67,
+      "title": "No One Changes",
+      "artist": "Conor Oberst",
+      "lyric": "When I’m alone, you are all I think about.",
+      "feeling": "Letting someone see who you really are. You stop pretending. A closeness built on truth.",
+      "why": "Conor can do it all: guitar, piano, harmonica, writing, and singing, always with striking honesty."
+    },
+    {
+      "order": 68,
+      "title": "Sad and Beautiful World",
+      "artist": "Sparklehorse",
+      "lyric": "It’s a sad and beautiful world.",
+      "feeling": "Holding both pain and beauty at once. Their presence makes the world gentler. A closeness that grounds you.",
+      "why": "Mark Linkous captures the fragile balance between melancholy and wonder. For me, sadness is not necessarily something negative."
+    },
+    {
+      "order": 69,
+      "title": "Geef Mie Een Glas",
+      "artist": "Flip Kowlier",
+      "lyric": "When I am awake I should sleep; during the day I keep yawning.",
+      "feeling": "A small comfort shared in silence. You do not need solutions, just presence. A moment where companionship feels enough.",
+      "why": "This deeply sad song reminds me of difficult experiences in my family. Those experiences shaped the person I am today."
+    },
+    {
+      "order": 70,
+      "title": "Left and Leaving",
+      "artist": "The Weakerthans",
+      "lyric": "You’re relying on it to lead you home.",
+      "feeling": "A bittersweet ache. Distance pulling you apart. A love that lingers anyway.",
+      "why": "The singer once played bass in a punk-rock band I loved when I was younger. I later saw him solo in a tiny venue, and sharing stories afterward made it one of my most memorable shows."
+    },
+    {
+      "order": 71,
+      "title": "Mamah Borthwick",
+      "artist": "Conor Oberst",
+      "lyric": "I’m hesitant to build something sacred till the end.",
+      "feeling": "A gentle devotion. You stay close without overwhelming. A presence that comforts.",
+      "why": "Conor is an extraordinary storyteller. This song led me back to memories of a solo trip to New York, playing guitar in Central Park and visiting the Guggenheim."
+    },
+    {
+      "order": 72,
+      "title": "The Places You Have Come to Fear the Most",
+      "artist": "Dashboard Confessional",
+      "lyric": "Buried deep as you can dig inside yourself.",
+      "feeling": "Letting someone into your hidden places. You show them what you usually bury. A closeness built on honesty.",
+      "why": "This artist helped me improve my guitar playing through unusual tunings. The voice is remarkable too."
+    },
+    {
+      "order": 73,
+      "title": "Stop Blues",
+      "artist": "Jack Johnson",
+      "lyric": "Look at all the people in the street.",
+      "feeling": "Seeing beauty in the everyday when someone is on your mind. The world feels softer. Colours feel warmer.",
+      "why": "Jack Johnson moved from professional surfing into songwriting after an accident. This song reflects on time that slipped away."
+    },
+    {
+      "order": 74,
+      "title": "Heartbeats",
+      "artist": "José González",
+      "lyric": "One night to be confused.",
+      "feeling": "A fleeting spark. The intensity of a moment that changes everything. A closeness that feels electric.",
+      "why": "I love the guitar introduction. This acoustic interpretation fits my style perfectly."
+    },
+    {
+      "order": 75,
+      "title": "Till St. Dymphna Kicks Us Out",
+      "artist": "Conor Oberst",
+      "lyric": "If you need some company, I’ll gladly stick around.",
+      "feeling": "A messy intimacy. You linger because neither wants to leave. Warmth found in imperfection.",
+      "why": "The harmonica passage near the end stops me every time. I simply pause and let it sink in."
+    },
+    {
+      "order": 76,
+      "title": "On My Feet",
+      "artist": "Eels",
+      "lyric": "I’ll miss falling asleep with your arms around me.",
+      "feeling": "A quiet resilience. You rise because someone believes in you. A closeness that lifts you.",
+      "why": "Loneliness is something everyone experiences. Mr. E expresses it delicately with a fragile voice, guitar, and subtle piano."
+    },
+    {
+      "order": 77,
+      "title": "Soul Interlude",
+      "artist": "Marvin Gaye",
+      "lyric": "A soulful moment of closeness.",
+      "feeling": "Warmth, trust, and tenderness expressed through a classic soul atmosphere.",
+      "why": "A smooth soul interlude that adds warmth to the chapter while keeping this version suitable for a general audience."
+    },
+    {
+      "order": 78,
+      "title": "Never Leave Lonely Alone",
+      "artist": "Ben Harper",
+      "lyric": "Never leave lonely alone.",
+      "feeling": "A gentle request for presence. Wanting someone to stay through the quiet hours. A longing that feels tender.",
+      "why": "This song offers comfort to people who struggle in silence. Ben Harper’s voice has a calming effect on me."
+    },
+    {
+      "order": 79,
+      "title": "Only Love Can Break Your Heart",
+      "artist": "Neil Young",
+      "lyric": "Only love can break your heart.",
+      "feeling": "A truth that feels both painful and beautiful. Love’s power to wound and heal. A reminder of its depth.",
+      "why": "Neil Young offers comfort to someone experiencing heartbreak. The simplicity of the message makes it timeless."
+    },
+    {
+      "order": 80,
+      "title": "Street Spirit (Fade Out)",
+      "artist": "Radiohead",
+      "lyric": "Immerse your soul in love.",
+      "feeling": "A haunting surrender. Letting love wash over you completely. A quiet, powerful release.",
+      "why": "Radiohead was my first real concert when I was very young. This song reflects vulnerability, and I still practise playing and singing it at the same time."
+    }
+  ],
+  "chapter5Long": [
+    "If the earlier chapters are about falling, this one is about understanding.",
+    "About discovering that real love is not only found in intensity.",
+    "It is found in peace.",
+    "In comfort.",
+    "In the quiet certainty of knowing someone's presence has changed you forever.",
+    "These songs feel like late evenings where nobody needs to say very much.",
+    "Where being together is enough.",
+    "Where gratitude slowly replaces fear.",
+    "They remind me that the most meaningful people in our lives do not simply pass through them.",
+    "They become part of us.",
+    "Part of the way we think.",
+    "Part of the way we see the world.",
+    "Part of the person we become."
+  ],
+  "songs5": [
+    {
+      "order": 81,
+      "title": "Involuntary",
+      "artist": "M. Ward",
+      "lyric": "It’s involuntary.",
+      "feeling": "Falling for someone without meaning to. It feels instinctive, effortless. A closeness that grows quietly.",
+      "why": "M. Ward also has a band, She & Him, with Zooey Deschanel. This song often helps me drift off. When the small arrangements enter, it gets me every time."
+    },
+    {
+      "order": 82,
+      "title": "Après un rêve",
+      "artist": "Fauré / Yo-Yo Ma / Stott",
+      "lyric": "A dream you wish you could stay inside.",
+      "feeling": "A floating tenderness. You drift toward someone in a dream. A softness that feels unreal.",
+      "why": "I wanted to include classical pieces too. I know you like them as well. I am a sucker for the cello, and this gets me every time."
+    },
+    {
+      "order": 83,
+      "title": "Livin’ Small",
+      "artist": "Onelinedrawing",
+      "lyric": "I'm happy living small.",
+      "feeling": "A shrinking heart. You want someone who makes you feel big again. A wish for emotional space.",
+      "why": "Jonah came from a punk-rock background and created Onelinedrawing to get closer to listeners through small performances. I once missed a concert because of an exam, then could not focus because I watched the live stream. I failed the exam, although the course disappeared the following year."
+    },
+    {
+      "order": 84,
+      "title": "Schwanengesang",
+      "artist": "Schubert / Lloyd Webber / Lenehan",
+      "lyric": "A serenade meant for one person only.",
+      "feeling": "A private devotion. You want them to feel chosen. A moment filled with quiet romance.",
+      "why": "One of Schubert’s final works. The title evokes the idea of a swan song: beauty at the end of a journey."
+    },
+    {
+      "order": 85,
+      "title": "Living in the Unknown",
+      "artist": "Jon Swift",
+      "lyric": "I’m living in the unknown.",
+      "feeling": "A shared uncertainty. You don’t have answers, but you have each other. A closeness built on trust.",
+      "why": "Another surfer singer-songwriter with a message that you do not need to follow everything society expects of you."
+    },
+    {
+      "order": 86,
+      "title": "Cello Suite No. 1",
+      "artist": "Bach / Ylönen",
+      "lyric": "Light falling across your skin.",
+      "feeling": "A quiet intimacy. The room softens around you. A closeness that feels sacred.",
+      "why": "Pure beauty. It begins simply and gradually builds in complexity."
+    },
+    {
+      "order": 87,
+      "title": "You Don’t Make It Easy Babe",
+      "artist": "Josh Ritter",
+      "lyric": "I'm trying hard to love you – I'm looking for an easy way.",
+      "feeling": "A complicated affection. Loving someone who challenges you. A closeness that feels real.",
+      "why": "A raw, painful song about unanswered love."
+    },
+    {
+      "order": 88,
+      "title": "Cry to Me",
+      "artist": "Solomon Burke",
+      "lyric": "Well, here I am, a-honey. A-come on, well, cry to me.",
+      "feeling": "Comfort offered in the softest way. A shoulder to lean on when the world feels heavy. A closeness born from empathy.",
+      "why": "A sad song carried by an irresistible rhythm. It also reminds me of Dirty Dancing, a film I would love to watch together."
+    },
+    {
+      "order": 89,
+      "title": "A Dream for Us",
+      "artist": "The Appleseed Cast",
+      "lyric": "Cause what I feel inside I don't want to hide. It's you that got to me.",
+      "feeling": "A shared vision of something gentle. Hope woven into imagination. A wish whispered into the future.",
+      "why": "I love The Appleseed Cast. The song starts slowly and repetitively, then opens into something much bigger."
+    },
+    {
+      "order": 90,
+      "title": "November",
+      "artist": "Azure Ray",
+      "lyric": "I'll just sit and stare at my deep blue walls until I can see nothing at all.",
+      "feeling": "A cold-weather longing. Memories that feel like shadows in the room. A softness tinged with ache.",
+      "why": "The cello and acoustic guitars get me every time. I once saw them in a very small venue in Ghent and spent a memorable evening talking with the band afterward."
+    },
+    {
+      "order": 91,
+      "title": "Ploegsteert",
+      "artist": "Het Zesde Metaal",
+      "lyric": "'k ga niet ontgoochel'n, 'k ga der staan. – I won’t disappoint you.",
+      "feeling": "A hometown memory tied to emotion. Longing for places that shaped you. A nostalgia that aches gently.",
+      "why": "A song in the dialect of West Flanders. Even for me it is not easy to understand, despite the place being close to where I live. It is an ode to cycling in Flanders."
+    },
+    {
+      "order": 92,
+      "title": "Older Chests",
+      "artist": "Damien Rice",
+      "lyric": "So pass me by, I'll be fine. Just give me time.",
+      "feeling": "Love shaped by time and scars. Holding someone with all your history. A tenderness that knows weight.",
+      "why": "I have played this song many times on guitar. I am a big fan of Damien Rice and would love to play it for you one day."
+    },
+    {
+      "order": 93,
+      "title": "Heart of a Mother",
+      "artist": "Douglas Firs",
+      "lyric": "But nobody knows how you really feel, do they.",
+      "feeling": "A protective softness. Loving someone with instinctive warmth. A closeness that feels unconditional.",
+      "why": "Douglas Firs once played guitar for The Bony King of Nowhere before going solo. The album connected deeply with me after the loss of my mother. When I ordered a sweater, the artist delivered it personally and I discovered the artist lived nearby."
+    },
+    {
+      "order": 94,
+      "title": "These White Lights Will Bend to Make Blue",
+      "artist": "Azure Ray",
+      "lyric": "I called just to wish you well.",
+      "feeling": "Beauty tinged with melancholy. A moment where sadness becomes colour. A softness that glows.",
+      "why": "A slow, beautifully sung dream song."
+    },
+    {
+      "order": 95,
+      "title": "1973",
+      "artist": "Damien Jurado",
+      "lyric": "But the diamond doesn't shine.",
+      "feeling": "A memory wrapped in innocence. Looking back while holding someone close now. A nostalgia that softens the present.",
+      "why": "I love the chord progression and Damien Jurado’s unique storytelling voice."
+    },
+    {
+      "order": 96,
+      "title": "The Drinks We Drank Last Night",
+      "artist": "Azure Ray",
+      "lyric": "So I'll come back to where you are and you know I'm never far.",
+      "feeling": "A blurry confession. Honesty that spills out after midnight. A vulnerability sharpened by longing.",
+      "why": "A song about returning to the person who matters. I am also happy that I do not drink."
+    },
+    {
+      "order": 97,
+      "title": "Bloodless",
+      "artist": "Tom McRae",
+      "lyric": "I've got a feeling. You don't know.",
+      "feeling": "A cold emptiness softened by connection. Feeling drained but still reaching out. A quiet plea for warmth.",
+      "why": "A song about people who have lost their connection and empathy for the world. I once heard Tom McRae perform it without amplification in a large venue. It was unforgettable."
+    },
+    {
+      "order": 98,
+      "title": "The Last Great Washington State",
+      "artist": "Damien Jurado",
+      "lyric": "You have him now but I'll have you later.",
+      "feeling": "A meditation on identity, doubt, creative exhaustion, and writing your own story while others misunderstand it.",
+      "why": "When the drums and guitar enter, I am immediately hooked. Then the voice arrives and I am somewhere else."
+    },
+    {
+      "order": 99,
+      "title": "Blindsided",
+      "artist": "Bon Iver",
+      "lyric": "Would you really rush out?",
+      "feeling": "A slow, quiet heartbreak that sneaks up on you, leaving you confused, exposed, and strangely tender.",
+      "why": "I am a sucker for an intro. It is such a simple song, and then that voice arrives."
+    },
+    {
+      "order": 100,
+      "title": "My Sundown",
+      "artist": "Jimmy Eat World",
+      "lyric": "No one cares, I could be so much more than this.",
+      "feeling": "A final breath of acceptance. Realizing someone stayed through the ache. A sunset ending filled with quiet warmth.",
+      "why": "This is the perfect ending for this list. The ending is perfect. As you."
+    }
   ]
 };
 const SPOTIFY_PLAYLIST_URL = "#";
@@ -589,7 +943,7 @@ function wireAccordion(grid){
 }
 function showChapter(index){
  document.querySelectorAll('.songs-section').forEach(s=>s.hidden=true);
- const section=document.querySelector(['#chapter-one','#chapter-two','#chapter-three'][index]);section.hidden=false;observeReveals();section.scrollIntoView({behavior:'smooth'});
+ const section=document.querySelector(['#chapter-one','#chapter-two','#chapter-three','#chapter-four','#chapter-five'][index]);section.hidden=false;observeReveals();section.scrollIntoView({behavior:'smooth'});
 }
 const chapterGrid=document.querySelector('#chapterGrid');
 SITE_DATA.chapters.forEach((chapter,index)=>{
@@ -600,7 +954,9 @@ SITE_DATA.chapters.forEach((chapter,index)=>{
 document.querySelector('#chapterProse').innerHTML=SITE_DATA.chapter1Long.map(x=>`<p>${escapeHtml(x)}</p>`).join('');
 document.querySelector('#chapter2Prose').innerHTML=SITE_DATA.chapter2Long.map(x=>`<p>${escapeHtml(x)}</p>`).join('');
 document.querySelector('#chapter3Prose').innerHTML=SITE_DATA.chapter3Long.map(x=>`<p>${escapeHtml(x)}</p>`).join('');
-renderSongs('#songsGrid',SITE_DATA.songs);renderSongs('#songsGrid2',SITE_DATA.songs2);renderSongs('#songsGrid3',SITE_DATA.songs3);
+document.querySelector('#chapter4Prose').innerHTML=SITE_DATA.chapter4Long.map(x=>`<p>${escapeHtml(x)}</p>`).join('');
+document.querySelector('#chapter5Prose').innerHTML=SITE_DATA.chapter5Long.map(x=>`<p>${escapeHtml(x)}</p>`).join('');
+renderSongs('#songsGrid',SITE_DATA.songs);renderSongs('#songsGrid2',SITE_DATA.songs2);renderSongs('#songsGrid3',SITE_DATA.songs3);renderSongs('#songsGrid4',SITE_DATA.songs4);renderSongs('#songsGrid5',SITE_DATA.songs5);
 document.querySelectorAll('.back-link,.back-to-chapters').forEach(b=>b.onclick=()=>document.querySelector('#chapters').scrollIntoView({behavior:'smooth'}));
 let toastTimer;function showToast(message){const t=document.querySelector('#toast');t.textContent=message;t.classList.add('show');clearTimeout(toastTimer);toastTimer=setTimeout(()=>t.classList.remove('show'),2400);}
 const playlist=document.querySelector('#playlistLink');if(playlist)playlist.onclick=e=>{if(playlist.getAttribute('href')==='#'){e.preventDefault();showToast('Spotify playlist link will be added later ♡');}};

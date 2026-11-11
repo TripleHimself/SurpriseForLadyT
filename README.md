@@ -69,3 +69,11 @@ The intro letter now includes a prominent **Explore the Chapters** button that l
 ## Version 19 Chapter III
 
 Chapter III is unlocked with the complete long introduction and songs 41–60. The mature film reference in song 48 has been replaced by a general-audience soundtrack discovery note.
+
+## Version 20 Chapter IV
+
+Chapter IV is unlocked with the complete long introduction and songs 61–80. Song 77 is represented by a general-audience soul interlude.
+
+## Version 21 Chapter V
+
+Chapter V is fully integrated with the complete introduction, songs 81–100, all five unlocked envelopes, and a final closing panel.

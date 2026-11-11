@@ -495,3 +495,21 @@ footer{font-weight:500}
 .chapter-three-theme .chapter-intro:before{content:"III"!important;color:rgba(119,53,93,.06)!important}
 .chapter-card.available:nth-child(3):before{background-image:radial-gradient(circle at 20% 20%,rgba(255,255,255,.05) 0 1px,transparent 2px),radial-gradient(circle at 80% 60%,rgba(255,255,255,.04) 0 1px,transparent 2px),linear-gradient(145deg,#532342,#93607f)!important}
 .chapter-card.available:nth-child(3):after{background:linear-gradient(145deg,#aa7896,#60314e)!important}
+
+/* VERSION 20 Chapter IV */
+.journey-fill{right:20%!important}
+.chapter-four-theme{background:linear-gradient(180deg,#f8f4f6,#eee5ea 50%,#fff4ed)}
+.chapter-four-theme .chapter-intro{background:radial-gradient(circle at 14% 18%,rgba(111,80,99,.15),transparent 25%),radial-gradient(circle at 88% 80%,rgba(233,175,82,.13),transparent 23%),linear-gradient(145deg,rgba(255,255,255,.96),rgba(243,237,241,.93))}
+.chapter-four-theme .chapter-intro:before{content:"IV"!important;color:rgba(67,48,61,.07)!important}
+.chapter-card.available:nth-child(4):before{background-image:radial-gradient(circle at 20% 20%,rgba(255,255,255,.05) 0 1px,transparent 2px),radial-gradient(circle at 80% 60%,rgba(255,255,255,.04) 0 1px,transparent 2px),linear-gradient(145deg,#3f2838,#75546b)!important}
+.chapter-card.available:nth-child(4):after{background:linear-gradient(145deg,#8d7183,#4e3445)!important}
+
+/* VERSION 21 Chapter V */
+.journey-fill{right:0!important}
+.chapter-five-theme{background:linear-gradient(180deg,#fff8ed,#f7eadb 50%,#f5dfe6)}
+.chapter-five-theme .chapter-intro{background:radial-gradient(circle at 12% 18%,rgba(238,184,83,.18),transparent 25%),radial-gradient(circle at 88% 82%,rgba(184,101,137,.14),transparent 23%),linear-gradient(145deg,rgba(255,255,255,.97),rgba(255,246,231,.94))}
+.chapter-five-theme .chapter-intro:before{content:"V"!important;color:rgba(155,103,23,.08)!important}
+.chapter-card.available:nth-child(5):before{background-image:radial-gradient(circle at 20% 20%,rgba(255,255,255,.06) 0 1px,transparent 2px),radial-gradient(circle at 80% 60%,rgba(255,255,255,.04) 0 1px,transparent 2px),linear-gradient(145deg,#765017,#b68534)!important}
+.chapter-card.available:nth-child(5):after{background:linear-gradient(145deg,#ddb263,#8a5d22)!important}
+.final-chapter-end{padding:42px 28px;border:1px solid rgba(181,129,43,.24);border-radius:28px;background:linear-gradient(145deg,rgba(255,255,255,.82),rgba(255,240,222,.78));box-shadow:0 24px 60px rgba(97,54,17,.09)}
+.final-chapter-end p{font-style:normal!important}
